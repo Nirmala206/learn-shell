@@ -6,6 +6,6 @@ echo Second Arguement $2 #second arguement
 echo Script Name$0 # script Name
 
 echo All Arguments = $*
-eco All Arguments = $@  #  All Arguments
+echo All Arguments = $@  #  All Arguments
 
 echo Number of Arguments = $#  # Number of Arguments
