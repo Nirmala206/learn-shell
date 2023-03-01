@@ -9,4 +9,4 @@ echo "Hello, Good Morning, today date is ${DATE}"
 ADD=$((2+3))
 echo "Addition of 2 & 3 is ${ADD}"
 
- x=10
+ echo x = $x
